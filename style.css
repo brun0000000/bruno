@@ -10,3 +10,7 @@ body{ background-color:brown;
 .cabecalho-imagem{
     width: 20%;
 }
+.cabecalho{
+    background-color: rgb(142, 249, 35);
+    display: flex;
+}
